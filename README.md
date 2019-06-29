@@ -1,4 +1,4 @@
-# Everything Bitcoin
+# CryptoNews
 
 Copyright © 2019 | Serxhio Gugo 
 
